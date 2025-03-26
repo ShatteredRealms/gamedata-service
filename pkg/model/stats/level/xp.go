@@ -17,8 +17,8 @@ const (
 	NeededIncrMult = 1.05
 
 	BaseKillXp   = 70
-	KillIncrXp   = 0
-	KillIncrMult = 0.8
+	KillIncrXp   = 1
+	KillIncrMult = 0.6
 
 	EasyKillXpGain = 0.3
 	MedKillXpGain  = 1.0
