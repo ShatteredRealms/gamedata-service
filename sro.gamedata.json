@@ -1,0 +1,9 @@
+{
+  "openapi": "3.0.1",
+  "components": {},
+  "info": {
+    "title": "OpenAPI Spec for Solo APIs.",
+    "version": "gamedata"
+  },
+  "paths": null
+}
