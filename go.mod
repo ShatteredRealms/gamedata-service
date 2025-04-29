@@ -198,7 +198,7 @@ require (
 	github.com/segmentio/kafka-go v0.4.47 // indirect
 	github.com/segmentio/ksuid v1.0.4 // indirect
 	github.com/shopspring/decimal v1.4.0 // indirect
-	github.com/snowflakedb/gosnowflake v1.13.1 // indirect
+	github.com/snowflakedb/gosnowflake v1.13.3 // indirect
 	github.com/sourcegraph/conc v0.3.0 // indirect
 	github.com/spf13/afero v1.14.0 // indirect
 	github.com/spf13/cast v1.7.1 // indirect
